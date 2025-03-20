@@ -12,6 +12,7 @@ const Navbar = () => {
         transition={{ duration: 1.2, ease: "easeOut" }}
         className="bg-[var(--primary)] bg-opacity-80 backdrop-blur-xl fixed top-0 w-full shadow-2xl border-b border-white/10 z-50"
       >
+        
         <div className="max-w-7xl mx-auto flex justify-between items-center px-4 md:px-12 h-16">
           
           {/* Logo */}
